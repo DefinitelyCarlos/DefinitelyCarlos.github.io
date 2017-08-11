@@ -2,7 +2,7 @@ body{
 	color:white;
 	background: url(http://www.americanwhiskeytrail.com/sites/default/files/styles/flexslider_full/public/page/field_image/american-whiskey-history.jpg?itok=K5sGlyEO) repeat-y center top;
 	min-height:1000px;
-	background-size: contain;
+	background-size: auto 100%;
 	background-attachment:fixed;
 }
 
